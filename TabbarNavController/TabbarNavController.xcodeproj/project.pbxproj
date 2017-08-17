@@ -507,6 +507,7 @@
 				15FCE2721F453FD5008F03B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15FCE2731F453FD5008F03B7 /* Build configuration list for PBXNativeTarget "TabbarNavControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				15FCE2751F453FD5008F03B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15FCE2761F453FD5008F03B7 /* Build configuration list for PBXNativeTarget "TabbarNavControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				15FCE2781F453FD5008F03B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
